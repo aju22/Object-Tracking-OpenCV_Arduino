@@ -28,6 +28,7 @@ OpenCV then tracks the target, by locating its contours and relays the positiona
 ## Guidance
 
 Camera is guided by the positional information relayed by the Arduino to the Servo Motors, keeping the target always at the centre of the frame.
+
 ![Movement and Guidance](https://github.com/aju22/Object-Tracking-OpenCV_Arduino/blob/main/20210429_163852.gif?raw=true)
 
 ## Future Scopes
